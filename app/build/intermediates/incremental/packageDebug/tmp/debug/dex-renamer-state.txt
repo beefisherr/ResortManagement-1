@@ -1,0 +1,4 @@
+#Sat Nov 16 21:34:10 EST 2019
+base.0=/Users/apple/Desktop/571pro/mis571-resort-master/ResortManagement/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
